@@ -2,4 +2,4 @@
 
 Hi all!
 
-first time using of github.
+first time using github.
